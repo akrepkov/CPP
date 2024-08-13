@@ -3,6 +3,7 @@
 
 class_name = input("Class name: ")
 
+#The triple quotes (""") in Python denote a multi-line string literal. 
 class_template = f"""
 
 #ifndef {class_name}_HPP
